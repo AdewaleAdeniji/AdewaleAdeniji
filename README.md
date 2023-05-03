@@ -1,6 +1,6 @@
 
   
-### <div align="center">Hi there!! Building the next financial technology infrastructure at Moniepoint.</div>  
+### <div align="center">Hi there!! I'm building the Nigerian financial technology infrastructure at Moniepoint.</div>  
   
 
 - 🔭 I’m currently working on [moniepoint.com]
