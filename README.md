@@ -1,13 +1,13 @@
 
   
-### <div align="center">Hi there!! I'm building the Nigerian financial technology infrastructure at Moniepoint.</div>  
+### Hi there!! I'm building the Nigerian financial technology infrastructure at Moniepoint.
   
 
 - 🔭 I’m currently working on [moniepoint.com]
   
-- 🌱 I’m currently learning Golang and Nodejs
+- 🌱 I’m currently learning Nodejs
 
-- I can use React, NextJS, VueJS, PHP, Laravel.
+- I can use React, NextJS, VueJS, PHP, Golang, Laravel.
 
 - I have over 5 years of experience in frontend development
   
