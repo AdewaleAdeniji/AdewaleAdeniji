@@ -1,6 +1,6 @@
 
   
-### Hi there!! I'm building the Nigerian financial technology infrastructure at Moniepoint.
+### Hi there!! I'm Oluwaferanmi
   
 
   
