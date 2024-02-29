@@ -4,13 +4,13 @@
   
 
   
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Java
 
-- I can use React, NextJS, VueJS, PHP, Golang, Laravel.
+- I can use React, NodeJS NextJS, VueJS, PHP, Golang, Laravel.
 
-- I have over 5 years of experience in frontend development
+- I have over 5 years of experience in software development
   
-- ❓ Ask me about anything related to Frontend Engineering and related technologies.  
+- ❓ Ask me about anything related to Frontend/Backend Engineering and related technologies.  
 
   
 
